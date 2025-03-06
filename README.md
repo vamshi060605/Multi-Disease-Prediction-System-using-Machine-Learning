@@ -11,7 +11,7 @@ The **Multi-Disease Prediction System** is a machine learning-based solution des
 - **Visualization:** Data distribution, correlation heatmaps, and performance metrics
 - **Interactive UI (Optional):** Can be integrated with Flask or Streamlit for a user-friendly interface
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Programming Language:** Python
 - **Libraries:**
   - Data Processing: `pandas`, `numpy`
